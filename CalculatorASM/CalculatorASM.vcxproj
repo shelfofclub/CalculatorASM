@@ -208,6 +208,7 @@
     <ResourceCompile Include="CalculatorASM.rc" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="res\CalculatorASM.rc2" />
   </ItemGroup>
   <ItemGroup>
